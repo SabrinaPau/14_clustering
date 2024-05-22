@@ -19,11 +19,7 @@ Please work in pairs through the notebook/markdown files in this particular orde
 If not, install them in your activated environment.  
 
 
-Furthermore, for the database connection, add your sql_functions.py and .env file from the [da-external-data-sourcing-repo](https://github.com/neuefische/da-external-data-sourcing) to this repo - again without pushing it to GitHub.  
-You can use these terminal commands:  
+Furthermore, for the database connection, add your .env file from the [da-external-data-sourcing-repo](https://github.com/neuefische/da-external-data-sourcing) to this repo.  
+You can use this terminal command:  
 ```zsh
 cp ../da-external-data-sourcing/.env .
-```
-```zsh
-cp ../da-external-data-sourcing/sql_functions.py .
-```
